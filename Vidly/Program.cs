@@ -1,3 +1,6 @@
+using Microsoft.AspNetCore.Routing;
+using Microsoft.CodeAnalysis.VisualBasic.Syntax;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
@@ -20,8 +23,20 @@ app.UseRouting();
 
 app.UseAuthorization();
 
-app.MapControllerRoute(
+app.UseEndpoints(endpoints =>
+{
+    /*endpoints.MapControllerRoute(
+    name: "moviesByReleaseDate",
+    pattern: "{controller=Movies}/{action=ByReleaseDate}/{year}/{month}"); // COMO AGREGAR CONSTRAINTS ???*/
+
+    endpoints.MapControllerRoute(
     name: "default",
     pattern: "{controller=Home}/{action=Index}/{id?}");
+
+});
+
+
+
+
 
 app.Run();
