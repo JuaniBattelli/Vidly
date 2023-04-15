@@ -6,7 +6,7 @@ namespace Vidly.Controllers
 {
     public class MoviesController : Controller
     {
-        /*public IActionResult Random()
+        public IActionResult Random()
         {
             var movie = new Movie() { Name = "Star Wars" };
 
@@ -27,7 +27,7 @@ namespace Vidly.Controllers
             //return Content("Content");
             //return new EmptyResult();
             //return RedirectToAction("Index", "Home", new { page = 1, sortBy = "name" });
-        }*/
+        }
 
         //Attribute Routing
         [Route("Movies/ByReleaseDate/{year:int:regex(\\d{{4}})}/{month:int:regex(\\d{{2}}):range(1, 12)}")]
