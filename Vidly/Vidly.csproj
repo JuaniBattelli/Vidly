@@ -12,6 +12,8 @@
 
   <ItemGroup>
     <Folder Include="Content\bootstrap\" />
+    <Folder Include="ViewModels\" />
+    <Folder Include="Views\Movies\" />
   </ItemGroup>
 
 </Project>
