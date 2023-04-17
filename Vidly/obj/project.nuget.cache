@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7yqCZ3PbDaQwNuLKZU4p1r19GX81UfHif2vZsQxIZZyol+jttRDHE1YsHbeIHEluv/NQ2EOHxqHtVb/1MTJuuQ==",
+  "dgSpecHash": "A8o5ijtmDJ9uUqsLrXAK5MMzoR5dKu6VMFeW/td+VS+alEA85Y2H+K1WxoTjTzEy6pcTZd1ynTF/7Z6QYMOs3w==",
   "success": true,
-  "projectFilePath": "D:\\C#\\Vidly\\Vidly\\Vidly.csproj",
+  "projectFilePath": "D:\\MOX IT\\Vidly\\Vidly\\Vidly.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\juani\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\juani\\.nuget\\packages\\microsoft.aspnetcore.razor.language\\6.0.11\\microsoft.aspnetcore.razor.language.6.0.11.nupkg.sha512",

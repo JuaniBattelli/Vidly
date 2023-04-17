@@ -9,45 +9,53 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Vidly
 build_property.RootNamespace = Vidly
-build_property.ProjectDir = D:\C#\Vidly\Vidly\
+build_property.ProjectDir = D:\MOX IT\Vidly\Vidly\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\C#\Vidly\Vidly
+build_property.MSBuildProjectDirectory = D:\MOX IT\Vidly\Vidly
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/C\#/Vidly/Vidly/Views/Home/Index.cshtml]
+[D:/MOX IT/Vidly/Vidly/Views/Customers/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/MOX IT/Vidly/Vidly/Views/Customers/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/MOX IT/Vidly/Vidly/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/C\#/Vidly/Vidly/Views/Home/Privacy.cshtml]
+[D:/MOX IT/Vidly/Vidly/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/C\#/Vidly/Vidly/Views/Movies/Index.cshtml]
+[D:/MOX IT/Vidly/Vidly/Views/Movies/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/C\#/Vidly/Vidly/Views/Shared/Error.cshtml]
+[D:/MOX IT/Vidly/Vidly/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/C\#/Vidly/Vidly/Views/Shared/_NavBar.cshtml]
+[D:/MOX IT/Vidly/Vidly/Views/Shared/_NavBar.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9OYXZCYXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/C\#/Vidly/Vidly/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/MOX IT/Vidly/Vidly/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/C\#/Vidly/Vidly/Views/_ViewImports.cshtml]
+[D:/MOX IT/Vidly/Vidly/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/C\#/Vidly/Vidly/Views/_ViewStart.cshtml]
+[D:/MOX IT/Vidly/Vidly/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/C\#/Vidly/Vidly/Views/Shared/_Layout.cshtml]
+[D:/MOX IT/Vidly/Vidly/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-0gqunoy5hb

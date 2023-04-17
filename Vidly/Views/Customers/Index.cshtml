@@ -1,0 +1,24 @@
+﻿@model Vidly.ViewModels.CustomersViewModel
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Customers</h1>
+
+@if (@Model.Customers.Count == 0)
+{
+    <p>No customers yet.</p>
+}
+else
+{
+    <ul>
+        @foreach (var customer in @Model.Customers)
+        {
+            <li>
+                <a href="@Url.Action("Details", "Customers", new { id = customer.Id })">@customer.Name</a>
+            </li>
+        }   
+    </ul>
+}
+

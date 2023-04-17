@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\C#\\Vidly\\Vidly\\Vidly.csproj": {}
+    "D:\\MOX IT\\Vidly\\Vidly\\Vidly.csproj": {}
   },
   "projects": {
-    "D:\\C#\\Vidly\\Vidly\\Vidly.csproj": {
+    "D:\\MOX IT\\Vidly\\Vidly\\Vidly.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C#\\Vidly\\Vidly\\Vidly.csproj",
+        "projectUniqueName": "D:\\MOX IT\\Vidly\\Vidly\\Vidly.csproj",
         "projectName": "Vidly",
-        "projectPath": "D:\\C#\\Vidly\\Vidly\\Vidly.csproj",
+        "projectPath": "D:\\MOX IT\\Vidly\\Vidly\\Vidly.csproj",
         "packagesPath": "C:\\Users\\juani\\.nuget\\packages\\",
-        "outputPath": "D:\\C#\\Vidly\\Vidly\\obj\\",
+        "outputPath": "D:\\MOX IT\\Vidly\\Vidly\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\juani\\AppData\\Roaming\\NuGet\\NuGet.Config",
