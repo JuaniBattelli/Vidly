@@ -488,3 +488,16 @@ D:\MOX IT\Vidly\Vidly\obj\Debug\net7.0\refint\Vidly.dll
 D:\MOX IT\Vidly\Vidly\obj\Debug\net7.0\Vidly.pdb
 D:\MOX IT\Vidly\Vidly\obj\Debug\net7.0\Vidly.genruntimeconfig.cache
 D:\MOX IT\Vidly\Vidly\obj\Debug\net7.0\ref\Vidly.dll
+D:\MOX IT\Vidly\Vidly\bin\Debug\net7.0\EntityFramework.SqlServer.dll
+D:\MOX IT\Vidly\Vidly\bin\Debug\net7.0\EntityFramework.dll
+D:\MOX IT\Vidly\Vidly\bin\Debug\net7.0\System.CodeDom.dll
+D:\MOX IT\Vidly\Vidly\bin\Debug\net7.0\System.Data.SqlClient.dll
+D:\MOX IT\Vidly\Vidly\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+D:\MOX IT\Vidly\Vidly\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+D:\MOX IT\Vidly\Vidly\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+D:\MOX IT\Vidly\Vidly\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\MOX IT\Vidly\Vidly\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\MOX IT\Vidly\Vidly\obj\Debug\net7.0\Vidly.Migrations.InitialModel.resources
+D:\MOX IT\Vidly\Vidly\obj\Debug\net7.0\Vidly.csproj.GenerateResource.cache
+D:\MOX IT\Vidly\Vidly\obj\Debug\net7.0\Vidly.Migrations.AddIsSubscribedToCustomer.resources
+D:\MOX IT\Vidly\Vidly\obj\Debug\net7.0\Vidly.Migrations.AddMembershipType.resources
