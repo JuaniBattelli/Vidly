@@ -1,6 +1,9 @@
 using Microsoft.AspNetCore.Routing;
 using Microsoft.CodeAnalysis.VisualBasic.Syntax;
 
+
+
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
@@ -34,9 +37,5 @@ app.UseEndpoints(endpoints =>
     pattern: "{controller=Home}/{action=Index}/{id?}");
 
 });
-
-
-
-
 
 app.Run();
