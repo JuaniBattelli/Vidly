@@ -505,3 +505,5 @@ D:\MOX IT\Vidly\Vidly\obj\Debug\net7.0\Vidly.genruntimeconfig.cache
 D:\MOX IT\Vidly\Vidly\obj\Debug\net7.0\ref\Vidly.dll
 D:\MOX IT\Vidly\Vidly\obj\Debug\net7.0\Vidly.Migrations.AddBirthdayToCustomer.resources
 D:\MOX IT\Vidly\Vidly\obj\Debug\net7.0\Vidly.Migrations.CambiosEnBirthday.resources
+D:\MOX IT\Vidly\Vidly\obj\Debug\net7.0\Vidly.Migrations.NuevosAtributosAMovie.resources
+D:\MOX IT\Vidly\Vidly\obj\Debug\net7.0\Vidly.Migrations.PopulateMovies.resources

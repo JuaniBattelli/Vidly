@@ -1,29 +1,36 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using System.Data.Entity;
 using Vidly.Models;
 
 namespace Vidly.Controllers
 {
     public class MoviesController : Controller
     {
-        //Attribute Routing
-        [Route("Movies/ByReleaseDate/{year:int:regex(\\d{{4}})}/{month:int:regex(\\d{{2}}):range(1, 12)}")]
-        public IActionResult ByReleaseDate(int year, int month)
+        private MyDbContext _context;
+
+        public MoviesController()
         {
-            return Content(year + "/" + month);
+            _context = new MyDbContext();
         }
-        public IActionResult Edit(int id)
-        {
-            return Content("id=" + id);
-        }
-        //movies
         public IActionResult Index(int? pageIndex, string sortBy)
         {
-            var movies = new List<Movie>{
-                new Movie { Name = "Star Wars"},
-                new Movie { Name = "Matrix"}
-            };
+            var movies = _context.Movies.ToList();
 
-                return View(movies);
+            return View(movies);
+        }
+
+        public IActionResult Details(int id)
+        {
+            //SingleOrDefault devuelve un valor default (null en este caso) si no encuentra coincidencia
+            var movie = _context.Movies.ToList().SingleOrDefault(c => c.Id == id);
+
+            //En caso de ser null error 404.
+            if (movie == null)
+            {
+                return NotFound();
+            }
+
+            return View(movie);
         }
     }
 }
