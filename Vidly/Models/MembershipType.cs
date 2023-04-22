@@ -1,4 +1,6 @@
-﻿namespace Vidly.Models
+﻿using Microsoft.Build.Framework;
+
+namespace Vidly.Models
 {
     public class MembershipType
     {
@@ -6,5 +8,7 @@
         public short SignUpFree { get; set; }
         public byte DurationInMonths { get; set; }
         public byte DiscountRate { get; set; }
+
+        public string Name { get; set; }
     }
 }

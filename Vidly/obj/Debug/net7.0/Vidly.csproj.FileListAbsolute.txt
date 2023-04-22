@@ -501,4 +501,5 @@ D:\MOX IT\Vidly\Vidly\obj\Debug\net7.0\Vidly.Migrations.InitialModel.resources
 D:\MOX IT\Vidly\Vidly\obj\Debug\net7.0\Vidly.csproj.GenerateResource.cache
 D:\MOX IT\Vidly\Vidly\obj\Debug\net7.0\Vidly.Migrations.AddIsSubscribedToCustomer.resources
 D:\MOX IT\Vidly\Vidly\obj\Debug\net7.0\Vidly.Migrations.AddMembershipType.resources
-D:\MOX IT\Vidly\Vidly\obj\Debug\net7.0\Vidly.Migrations.PopulateMembershipTypes.resources
+D:\MOX IT\Vidly\Vidly\obj\Debug\net7.0\Vidly.Migrations.AddingNameToMembershipType.resources
+D:\MOX IT\Vidly\Vidly\obj\Debug\net7.0\Vidly.Migrations.PopulateMembershipType.resources
