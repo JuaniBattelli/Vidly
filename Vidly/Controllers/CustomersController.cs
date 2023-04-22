@@ -31,7 +31,7 @@ namespace Vidly.Controllers
         public IActionResult Details(int id)
         {
             //SingleOrDefault devuelve un valor default (null en este caso) si no encuentra coincidencia
-            var customer = _context.Customers.ToList().SingleOrDefault(c => c.Id == id);
+            var customer = _context.Customers.Include(c=>c.MembershipType).ToList().SingleOrDefault(c => c.Id == id);
 
             //En caso de ser null error 404.
             if (customer == null)
