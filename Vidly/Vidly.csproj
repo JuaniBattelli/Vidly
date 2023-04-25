@@ -13,7 +13,6 @@
 
   <ItemGroup>
     <Folder Include="Content\bootstrap\" />
-    <Folder Include="ViewModels\" />
   </ItemGroup>
 
 </Project>

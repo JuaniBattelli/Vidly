@@ -474,12 +474,6 @@ D:\MOX IT\Vidly\Vidly\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Co
 D:\MOX IT\Vidly\Vidly\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 D:\MOX IT\Vidly\Vidly\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 D:\MOX IT\Vidly\Vidly\obj\Debug\net7.0\Vidly.csproj.AssemblyReference.cache
-D:\MOX IT\Vidly\Vidly\obj\Debug\net7.0\Vidly.Migrations.InitialModel.resources
-D:\MOX IT\Vidly\Vidly\obj\Debug\net7.0\Vidly.Migrations.AddIsSubscribedToCustomer.resources
-D:\MOX IT\Vidly\Vidly\obj\Debug\net7.0\Vidly.Migrations.AddMembershipType.resources
-D:\MOX IT\Vidly\Vidly\obj\Debug\net7.0\Vidly.Migrations.AddingNameToMembershipType.resources
-D:\MOX IT\Vidly\Vidly\obj\Debug\net7.0\Vidly.Migrations.PopulateMembershipType.resources
-D:\MOX IT\Vidly\Vidly\obj\Debug\net7.0\Vidly.csproj.GenerateResource.cache
 D:\MOX IT\Vidly\Vidly\obj\Debug\net7.0\Vidly.GeneratedMSBuildEditorConfig.editorconfig
 D:\MOX IT\Vidly\Vidly\obj\Debug\net7.0\Vidly.AssemblyInfoInputs.cache
 D:\MOX IT\Vidly\Vidly\obj\Debug\net7.0\Vidly.AssemblyInfo.cs
@@ -503,7 +497,6 @@ D:\MOX IT\Vidly\Vidly\obj\Debug\net7.0\refint\Vidly.dll
 D:\MOX IT\Vidly\Vidly\obj\Debug\net7.0\Vidly.pdb
 D:\MOX IT\Vidly\Vidly\obj\Debug\net7.0\Vidly.genruntimeconfig.cache
 D:\MOX IT\Vidly\Vidly\obj\Debug\net7.0\ref\Vidly.dll
-D:\MOX IT\Vidly\Vidly\obj\Debug\net7.0\Vidly.Migrations.AddBirthdayToCustomer.resources
-D:\MOX IT\Vidly\Vidly\obj\Debug\net7.0\Vidly.Migrations.CambiosEnBirthday.resources
-D:\MOX IT\Vidly\Vidly\obj\Debug\net7.0\Vidly.Migrations.NuevosAtributosAMovie.resources
-D:\MOX IT\Vidly\Vidly\obj\Debug\net7.0\Vidly.Migrations.PopulateMovies.resources
+D:\MOX IT\Vidly\Vidly\obj\Debug\net7.0\Vidly.Migrations.Initial.resources
+D:\MOX IT\Vidly\Vidly\obj\Debug\net7.0\Vidly.csproj.GenerateResource.cache
+D:\MOX IT\Vidly\Vidly\obj\Debug\net7.0\Vidly.Migrations.PopulateMembershipTypes.resources

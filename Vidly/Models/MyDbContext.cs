@@ -7,5 +7,7 @@ namespace Vidly.Models
         
         public DbSet<Customer> Customers { get; set; }
 
+        public DbSet<MembershipType> MembershipTypes { get; set; }
+
     }
 }
