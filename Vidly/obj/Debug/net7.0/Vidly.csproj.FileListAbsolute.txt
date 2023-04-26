@@ -499,4 +499,4 @@ D:\MOX IT\Vidly\Vidly\obj\Debug\net7.0\Vidly.genruntimeconfig.cache
 D:\MOX IT\Vidly\Vidly\obj\Debug\net7.0\ref\Vidly.dll
 D:\MOX IT\Vidly\Vidly\obj\Debug\net7.0\Vidly.Migrations.Initial.resources
 D:\MOX IT\Vidly\Vidly\obj\Debug\net7.0\Vidly.csproj.GenerateResource.cache
-D:\MOX IT\Vidly\Vidly\obj\Debug\net7.0\Vidly.Migrations.PopulateMembershipTypes.resources
+D:\MOX IT\Vidly\Vidly\obj\Debug\net7.0\Vidly.Migrations.PopulateGenres.resources
