@@ -10961,3 +10961,7 @@ textarea.form-control-lg {
 .alert-dark {
   background-color: #303030;
 }
+
+.field-validation-error{
+    color: red;
+}
