@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "CfX2ytp/HlEeVR3bUx01JTb1OiryNRoato7GS0fm7JZDO7HzbsTPzIXCfgM0uebD9KSLzNPl65W7lfKb0rBO9g==",
+  "dgSpecHash": "WIP/6oWKqykuuL7xLip0pDfgACjm/lNV75FfidXiHavkQw0YsJTVZDamHU8GBplt7xJqTDsWwl2cnJK2pAqcig==",
   "success": true,
   "projectFilePath": "D:\\MOX IT\\Vidly\\Vidly\\Vidly.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\juani\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\juani\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
     "C:\\Users\\juani\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\juani\\.nuget\\packages\\microsoft.aspnetcore.razor.language\\6.0.11\\microsoft.aspnetcore.razor.language.6.0.11.nupkg.sha512",

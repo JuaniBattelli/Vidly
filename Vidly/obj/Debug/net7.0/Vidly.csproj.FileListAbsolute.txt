@@ -503,3 +503,4 @@ D:\MOX IT\Vidly\Vidly\obj\Debug\net7.0\Vidly.Migrations.PopulateGenres.resources
 D:\MOX IT\Vidly\Vidly\bin\Debug\net7.0\libman.json
 D:\MOX IT\Vidly\Vidly\obj\Debug\net7.0\Vidly.Migrations.Test.resources
 D:\MOX IT\Vidly\Vidly\obj\Debug\net7.0\Vidly.Migrations.Nullable.resources
+D:\MOX IT\Vidly\Vidly\bin\Debug\net7.0\AutoMapper.dll
